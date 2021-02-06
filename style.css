@@ -96,6 +96,12 @@ input[type="text"]:focus {
   border-radius: 15px;
   padding: 5px 20px;
 }
+#matched {
+  display: none;
+}
+#not-matched {
+  display: none;
+}
 .notify-section {
   width: 95%;
   margin: 0 auto;
